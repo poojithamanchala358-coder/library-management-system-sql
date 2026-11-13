@@ -35,6 +35,11 @@ The database contains the following tables:
 7. `tbl_book_loans`
 
 ---
+## 📊 ER Diagram
+
+![ER Diagram](IMG-20261113-WA0141.jpg)
+
+---
 
 ## 🛠️ Tech Stack
 
