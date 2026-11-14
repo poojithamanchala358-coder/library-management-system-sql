@@ -36,8 +36,7 @@ The database contains the following tables:
 
 ---
 ## 📊 ER Diagram
-
-![ER Diagram](IMG-20261113-WA0141.jpg)
+![ER Diagram](Library%20Management%20System/IMG-20261113-WA0141.jpg)
 
 ---
 
